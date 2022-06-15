@@ -1,0 +1,34 @@
+/* Main.css, feel free to modify! */
+
+h1 {
+    font-family: Arial;
+    color: black;
+    size: 32px;
+}
+
+input {
+    font-family: Arial;
+    color: blue;
+}
+
+p {
+    font-family: Arial;
+    color: black;
+}
+
+#footerButtons {
+    background-color: transparent;
+    border: transparent;
+    text-align: left;
+}
+
+a {
+    font-family: Arial;
+    font-size: 12px;
+    color: blue;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
