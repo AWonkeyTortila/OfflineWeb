@@ -1,0 +1,19 @@
+How to set this as your homepage in Internet Explorer:
+
+1. Click the gear icon
+2. Click "Internet Options"
+3. If you are on the homepage, click "use current".
+
+If you are not on the homepage, please navigate to it.
+[OfflineWeb/client/home/Main.html]
+
+Troubleshooting:
+
+Q: When I click on a new tab, how come it loads MSN?
+
+A: Dunno why it bugs out like that, but just click the home icon.
+
+
+Q: I have no settings icon, what do I click??!?!
+
+A: Click on "Tools" on the top of the page.
