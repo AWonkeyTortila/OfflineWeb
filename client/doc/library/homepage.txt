@@ -1,8 +1,8 @@
-How to set this as your homepage in Internet Explorer:
+How to set this as your Home Page in Internet Explorer:
 
 1. Click the gear icon
 2. Click "Internet Options"
-3. If you are on the homepage, click "use current".
+3. If you are on the Home Page, click "use current".
 
 If you are not on the homepage, please navigate to it.
 [OfflineWeb/client/home/Main.html]
