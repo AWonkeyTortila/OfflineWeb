@@ -14,12 +14,7 @@ input {
 p {
     font-family: Arial;
     color: black;
-}
-
-#footerButtons {
-    background-color: transparent;
-    border: transparent;
-    text-align: left;
+    font-size: 12px;
 }
 
 a {
