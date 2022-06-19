@@ -1,0 +1,32 @@
+How to add buttons & Links to your website:
+
+Buttons in IE are... different, to say the least.
+This is how a button looks like in IE:
+
+    <input type='button' value='Name' onclick="location.href='./'"/>
+
+Ok, so let's break this down:
+
+The "input type" is the type of input we want. In this case, we want a button.
+The "value=" is then name we want [our button] to be called.
+The "onclick=" is what page we want the button to go to.
+
+
+Luckily links are much easier, for example:
+
+    <a href="./">Name</a>
+
+Yes, that's it lol.
+
+
+
+
+Troubleshooting & Information:
+
+Q: How do I make the button open a new tab when clicked?
+
+A: You add a [target="_blank"] to your button, like this one:
+
+    <a target="_blank" style="X" href="./">NAME</a>
+
+This also works for buttons, too.
