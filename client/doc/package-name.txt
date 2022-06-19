@@ -1,0 +1,9 @@
+How to name your web module package:
+
+You'll name it "yourWebSite-yourLangauge".
+
+For example:
+
+"update-eng"
+"help-ru"
+"iHateFrenchPeople-fr"
