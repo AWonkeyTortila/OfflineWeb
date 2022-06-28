@@ -3,7 +3,6 @@
 <pre>
 doc - Documentation
 home - Home Page Source Code
-private - Developer Applets (don't touch please.)
+private - Developer Applets
 public - Website Module(s) Location
-test - Formal Testing Location For Developers
 </pre>
