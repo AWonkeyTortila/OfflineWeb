@@ -1,0 +1,8 @@
+How to pin the homepage HTML file to your desktop:
+
+1. Go to to the file location (OfflineWeb/home/Main.html)
+2. Right click on the file
+3. Then click on "Create Shortcut"
+4. Drag that Shortcut file to your desktop
+
+And that is all you need to do, congratulations!
