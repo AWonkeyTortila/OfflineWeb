@@ -1,4 +1,4 @@
 # OfflineWeb
-Offline Web home page, with ability to add modular pages.
+Offline Web homepage with ability to add web pages to it.
 
-(homepage is located in [.client/home/main.html])
+(Homepage located in [client/Main.html])
