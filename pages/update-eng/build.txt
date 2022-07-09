@@ -1,3 +1,1 @@
-You current build:
-Version 0.3_m2.67
-[Jun 30, 2022]
+You current build: Version 0.3_m2.67 [Jun 30, 2022]
