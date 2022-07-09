@@ -1,5 +1,9 @@
 /* Main.css, feel free to modify! */
 
+html {
+    background-color: white;
+}
+
 h1 {
     font-family: Arial;
     color: black;
