@@ -16,3 +16,6 @@ It exist simply as a way for you to explore the intranet but without needing to 
 
 # How do I contribute code?
 Look at the documentation. (So download, go to the hompage, and then go to the documentation.)
+
+# How do I download this?
+Click on tags, and then click on the latest one.
