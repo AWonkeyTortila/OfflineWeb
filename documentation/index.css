@@ -1,0 +1,25 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-family: monospace;
+    color: white;
+}
+
+p {
+    font-family: monospace;
+    font-size: 16px;
+    color: white; 
+}
+
+a {
+    font-family: monospace;
+    font-size: 16px;
+    color: white;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
