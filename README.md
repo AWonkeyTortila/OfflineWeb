@@ -1,5 +1,7 @@
+<div>
 <img src="https://img.shields.io/badge/build-failing-red">
 <img src="https://img.shields.io/badge/Size-386KB-cyan">
+<div>
 
 # OfflineWeb
 Offline Web homepage with ability to add web pages to it.
