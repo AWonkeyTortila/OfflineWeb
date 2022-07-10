@@ -18,4 +18,4 @@ It exist simply as a way for you to explore the intranet but without needing to 
 Look at the documentation. (So download, go to the hompage, and then go to the documentation.)
 
 # How do I download this?
-Click on tags, and then click on the latest one.
+Click on tags, and then click on the latest one. Please don't download the code directly off the main branch, that's asking for a buggy build, and a distater.
