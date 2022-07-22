@@ -1,6 +1,6 @@
 <div>
-<img src="https://img.shields.io/badge/build-failing-red">
-<img src="https://img.shields.io/badge/Size-386KB-cyan">
+<img src="https://img.shields.io/badge/build-unknown-orange">
+<img src="https://img.shields.io/badge/Size-2.49MBs-cyan">
 <div>
 
 # What is OfflineWeb?
